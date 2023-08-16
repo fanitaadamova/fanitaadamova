@@ -6,9 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fanitaadamova&label=Profile%20views&color=0e75b6&style=flat" alt="fanitaadamova" /> </p>
 
-- 🔭 I’m currently working on [My first Angular Project](https://github.com/fanitaadamova/My-personal-Angular-Project-Softuni.git)
-
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, NodeJS, Angular and React**
 
 - 📫 How to reach me **fanka.adamova@gmail.com**
 
