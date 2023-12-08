@@ -23,7 +23,7 @@
 - 📂 GitHub Repository: [Link to entire project and documentation](https://github.com/fanitaadamova/My-personal-React-Project-Softuni)
   
 ## My project with Angular
-- 🌍 Live Demo: [Android forum](https://android-forum.netlify.app/home)
+- 🌍 Live Demo: [Android Forum](https://android-forum.netlify.app/home)
 - 📂 GitHub Repository: [Link to entire project and documentation](https://github.com/fanitaadamova/My-personal-Angular-Project-Softuni)  
 
 
