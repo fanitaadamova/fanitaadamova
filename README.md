@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Fanka Adamova</h1>
-<h3 align="center">A passionate frontend developer from Sofia, Bulgaria</h3>
+<h3 align="center">Welcome to my profile! I am an ambitious person, constantly developing and learning new things with a real passion for my work. I am from Sofia, Bulgaria</h3>
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsGc9AltzgXeDCjCjGgEHDrieosWwdkKL5xA&usqp=CAU" >
 
@@ -11,6 +11,14 @@
 - 📫 How to reach me **fanka.adamova@gmail.com**
 
 - ⚡ Fun fact **I am funny**
+
+## My project with React
+- 🌍 Live Demo: [Tech shop](https://tech-site-six.vercel.app)
+- 📂 GitHub Repository: [Link to entire project and documentation](https://github.com/fanitaadamova/My-personal-React-Project-Softuni)
+  
+## My project with Angular
+- 🌍 Live Demo: [Android forum](https://android-forum.netlify.app/home)
+- 📂 GitHub Repository: [Link to entire project and documentation](https://github.com/fanitaadamova/My-personal-Angular-Project-Softuni)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
