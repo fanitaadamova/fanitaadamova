@@ -19,7 +19,7 @@
 
 
 ## My project with React
-- 🌍 Live Demo: [Tech shop](https://tech-site-six.vercel.app)
+- 🌍 Live Demo: [Tech Shop](https://tech-site-six.vercel.app)
 - 📂 GitHub Repository: [Link to entire project and documentation](https://github.com/fanitaadamova/My-personal-React-Project-Softuni)
   
 ## My project with Angular
