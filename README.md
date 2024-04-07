@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fanitaadamova&label=Profile%20views&color=0e75b6&style=flat" alt="fanitaadamova" /> </p>
 
-- 🌱 I’m currently learning **HTML5, CSS3 and React**
+- 🌱 I’m currently learning **TypeScipt**
 
 - 📫 How to reach me **fanka.adamova@gmail.com**
 
